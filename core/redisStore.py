@@ -1,4 +1,5 @@
-from models import Attribute, DatatypeStore
+from models.attribute import Attribute
+from models.datatypeStore import  DatatypeStore
 
 class RedisStore:
     def __init__(self):

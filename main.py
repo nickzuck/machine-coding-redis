@@ -1,4 +1,4 @@
-from core import RedisStore
+from core.redisStore import RedisStore
 
 if __name__ == '__main__':
     keyValueStore = RedisStore()

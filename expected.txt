@@ -1,5 +1,6 @@
 title: SDE-Bootcamp, price: 30000.00, enrolled: false, estimated_time: 30
 sde_bootcamp
+error :  Invalid data type for attribute
 Data Type Error
 No entry found for sde_kickstart
 sde_bootcamp
@@ -8,4 +9,4 @@ sde_bootcamp,sde_kickstart
 No entry found for sde_bootcamp
 sde_kickstart
 sde_bootcamp
-sde_bootcamp,sde_kickstart
+sde_kickstart,sde_bootcamp
